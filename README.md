@@ -7,5 +7,5 @@
 4. `composer install`
 5. `npm install`
 6. `php artisan key:generate`
-7. `php artisan migrate`
+7. `php artisan migrate --seed` // Я добавил базовые ответы которые были в задании
 8. `php artisan serve`
