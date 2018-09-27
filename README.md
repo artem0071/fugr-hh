@@ -9,3 +9,5 @@
 6. `php artisan key:generate`
 7. `php artisan migrate --seed` // Я добавил базовые ответы которые были в задании
 8. `php artisan serve`
+
+Использовал Laravel и Vue
